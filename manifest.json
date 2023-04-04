@@ -1,0 +1,29 @@
+{
+    "name": "Online Clothes Shop",
+    "short name": "shop",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color":"#FFE9D2",
+    "theme_color": "#FFE9D2",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "icon144.webp",
+            "type": "image/webp",
+            "sizes": "144x144"
+        },
+        {
+            "src": "icon512.webp",
+            "type":"image/webp",
+            "sizes": "512x512",
+            "purpose":"maskable"
+        },
+        {
+            "src": "icon512.png",
+            "type":"image/png",
+            "sizes": "512x512",
+            "purpose":"maskable"
+        }
+    ]
+}
+
